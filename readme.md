@@ -1,1 +1,1 @@
-# wildrydes-site!
+Serverless project.
